@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.cards{
+  width: 90%;
+  margin: auto;
+  background-color: #0c5669;
+  color: white;
+  display: flex;
+  padding: 0.5rem;
+  border-radius: 1rem;
+}
+.left img{
+  margin: 1rem;
+}
+
